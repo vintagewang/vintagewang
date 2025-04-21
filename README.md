@@ -8,3 +8,6 @@ Today, cloud platforms have transformed these physical constraints into highly f
 
 Currently, my team and I are fully committed to our new project, [AutoMQ](https://github.com/AutoMQ/automq). We are dedicating all our efforts to ensure its success.
 
+
+Contact me via email
+vintage.wang@gmail.com

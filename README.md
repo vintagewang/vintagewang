@@ -7,7 +7,3 @@ In my journey of providing open-source ecosystem products like Apache RocketMQ, 
 Today, cloud platforms have transformed these physical constraints into highly flexible resources that can be scaled by simply calling an API. Motivated by this evolution, my team and I have reimagined Kafka and RocketMQ using a cloud-native and cloud-first approach. Our goal is to provide developers with a next-generation messaging and streaming platform that offers on-demand usage, zero maintenance, and optimal cost efficiency.
 
 Currently, my team and I are fully committed to our new project, [AutoMQ](https://github.com/AutoMQ/automq). We are dedicating all our efforts to ensure its success.
-
-
-Contact me via email
-vintage.wang@gmail.com
